@@ -1,0 +1,98 @@
+commit 374e4a980c74e1a707b7307e996fe8a01e77652a
+Author: Isai Ocampo <isaiocampo236@gmail.com>
+Date:   Thu Feb 12 16:37:59 2026 -0600
+
+    Agregando dos parrafos
+
+commit c4741c8a8ff986e1c9b5c180510e5f0dbd74d2c0
+Merge: 69d139a 13e6a23
+Author: Isai Ocampo <isaiocampo236@gmail.com>
+Date:   Thu Feb 12 15:31:18 2026 -0600
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 69d139a30b2e4114833a12a20792bde4133b1800
+Author: Isai Ocampo <isaiocampo236@gmail.com>
+Date:   Thu Feb 12 15:04:04 2026 -0600
+
+    Agregando estaciones del año con fechas de inicio
+
+commit 13e6a235753623a16ddc75a7d68a3dd26d91aab5
+Author: Isai Ocampo <isaiocampo236@gmail.com>
+Date:   Thu Feb 12 15:04:04 2026 -0600
+
+    Agregando las estaciones del año
+
+commit 93bd201909392d75e91d457cc60b1e4c842ecc1e
+Merge: 2c34eb5 82ed52d
+Author: Isai Ocampo <isaiocampo236@gmail.com>
+Date:   Thu Feb 12 13:09:49 2026 -0600
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 82ed52dfb9b7f73d6934cc2b1f51e16acc52eed0
+Author: Isai Ocampo <isaiocampo236@gmail.com>
+Date:   Thu Feb 12 12:59:22 2026 -0600
+
+    Agregando Index.js al index.html
+
+commit 2c34eb5abfacd54d5002dea8603683e6d9fec7ba
+Author: Isai Ocampo <isaiocampo236@gmail.com>
+Date:   Thu Feb 12 12:54:36 2026 -0600
+
+    Agregando style.css al index.html
+
+commit 9f4adb94a89546109a76085bcc256271c5e83450
+Merge: 22c4b32 2d385f6
+Author: Isai Ocampo <isaiocampo236@gmail.com>
+Date:   Thu Feb 12 12:37:52 2026 -0600
+
+    Merge branch 'js'
+
+commit 2d385f67fb5324d207011b796464c07bcf9cd0d2
+Author: Isai Ocampo <isaiocampo236@gmail.com>
+Date:   Thu Feb 12 11:28:49 2026 -0600
+
+    Creando Index.js
+
+commit 22c4b32b50c7b5a7f95958280cd20b5a4f971b3c
+Author: Isai Ocampo <isaiocampo236@gmail.com>
+Date:   Thu Feb 12 11:13:00 2026 -0600
+
+    Creando Style.css
+
+commit c4c76d06492a384d424140c7014a340f2cd8910a
+Author: Isai Ocampo <isaiocampo236@gmail.com>
+Date:   Thu Feb 12 11:02:39 2026 -0600
+
+    Creando index.html
+
+commit d3b4b3dec061d75ceaa3e8d9ec78594097812169
+Author: Isai Ocampo <isaiocampo236@gmail.com>
+Date:   Thu Feb 12 09:47:15 2026 -0600
+
+    Ignorando archivos .exe
+
+commit 4542294f96c57c8ccf86d9d1ac74e5b0417b4093
+Author: Isai Ocampo <isaiocampo236@gmail.com>
+Date:   Thu Feb 12 07:00:40 2026 -0600
+
+    Creando licencia del repositorio
+
+commit f40fa99c602da91c945246a3df7d1bb0ee10b2b1
+Author: Isai Ocampo <isaiocampo236@gmail.com>
+Date:   Thu Feb 12 06:55:14 2026 -0600
+
+    Agregando mas contenido al README
+
+commit 0c5ef0e71cda7950a9c2d200a20fac4399ba58fd
+Author: Isai Ocampo <isaiocampo236@gmail.com>
+Date:   Thu Feb 12 06:45:38 2026 -0600
+
+    Agrgando contenido inicial al README
+
+commit 1648aac6b406ead772c38e42f326dc802c5d2ca8
+Author: Isai Ocampo <isaiocampo236@gmail.com>
+Date:   Thu Feb 12 06:39:54 2026 -0600
+
+    Primer Commit🥰
